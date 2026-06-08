@@ -23,7 +23,6 @@ vasicek-cir-zeytun/
 │
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 │
 ├── notebooks/
 │   └── zeytun_replication.ipynb
