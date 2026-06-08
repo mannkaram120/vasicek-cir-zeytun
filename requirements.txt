@@ -1,0 +1,14 @@
+# Core numerical stack
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualisation
+matplotlib>=3.7.0
+
+# Notebook environment
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Optional — speeds up some scipy operations
+# numba>=0.57.0
