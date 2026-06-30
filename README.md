@@ -3,7 +3,6 @@
 
 A complete Python replication of **Zeytun & Gupta (2007)** extended with three original contributions — a direct comparison of two calibration methods, a cross-country parameter stability analysis across Canada, USA, and EUR, and application to 30 years of market data covering five major macroeconomic regimes.
 
-> **Article:** Full write-up with analysis and charts published on Medium — [link coming soon]
 
 ---
 
